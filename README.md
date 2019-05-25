@@ -6,6 +6,8 @@ The organic farmer Bob produces exclusive rapeseed oils.  Bob presses the oils i
 
 This example shows the possibilities of tracking of products like wine, beer, bread, or products in chemical or pharmaceutical industries. It tracks the products from the field to the customer. The example has one primary essence and two production steps.
 
+![Rapeseed Field](images/field.jpg)
+
 ## Activity Diagram
 ![Acitivity Diagram](images/ActivityDiagram.svg)
 
