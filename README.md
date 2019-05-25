@@ -21,7 +21,7 @@ This Sequence Diagram illustrates the interaction between the actor for a defaul
 
 This State Diagram identifies states for the Entities Bottle and Field and the Oil Production Process.
 
-## Data Model
+## Domain Model
 
 ### Business Logic
 ![Business Model](images/DataModelBusinessModel.svg)
