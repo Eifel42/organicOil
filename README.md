@@ -1,4 +1,4 @@
-# organicOil
+# Organic Oil Manufacturer
 Organic oil manufacturer Ethereum Blockchain example
 
 ## Story
@@ -7,21 +7,26 @@ The organic farmer Bob produces exclusive rapeseed oils.  Bob presses the oils i
 This example shows the possibilities of tracking of products like wine, beer, bread, or products in chemical or pharmaceutical industries. It tracks the products from the field to the customer. The example has one primary essence and two production steps.
 
 ## Activity Diagram
-![AcitivityDiagram](images/ActivityDiagram.svg)
+![Acitivity Diagram](images/ActivityDiagram.svg)
 
 This Activity Diagram identifies the main activities for each actor in the oil production process.
 
 ## Sequence Diagram
-![AcitivityDiagram](images/SequenceDiagram.svg)
+![Sequence Diagram](images/SequenceDiagram.svg)
+
+This Sequence Diagram illustrates the interaction between the actor for a default production and sale process.
 
 ## State Diagram
-![AcitivityDiagram](images/StateDiagram.svg)
+![State Diagram](images/StateDiagram.svg)
+
+This State Diagram identifies states for the Entities Bottle and Field and the Oil Production Process.
 
 ## Data Model
 
 ### Business Logic
+![Business Model](images/DataModelBusinessModel.svg)
+This Class Diagram describes the relations of the entities in the business domain model.
 
-![AcitivityDiagram](images/DataModelBusinessModel.svg)
 ### SmartContract Logic
-
-![AcitivityDiagram](images/DataModelSmartContract.svg)
+![SmartContract Model](images/DataModelSmartContract.svg)
+This Class Model describes the relations in the technical SmartContract environment.
