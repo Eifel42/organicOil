@@ -1,0 +1,34 @@
+@startuml
+scale 2
+package OliProduction {
+    
+    class Field {
+        - unit256 ID
+        - String Name
+        - FieldState state
+    }
+
+    class OliProduction {
+        - united256 ID
+        - timestamp harvestDate
+        - timestamp pressDate
+        - timestamp bootlingDate
+        - timestamp deliveryDate
+        - Real amoutLiters
+        - OliProdcuceState state
+        - String Notice  
+    }
+
+    class Bottle {
+        - united256 ID
+        - timestamp inShopDate
+        - timestamp sellDate
+        - String Notice  
+        - BottleState state
+    }
+
+    Field "1:n" <- "0:n" OliProduction : harvested
+    OliProduction "1" <-> "0:n" Bottle : bottled
+
+}
+@enduml
