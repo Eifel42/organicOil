@@ -35,7 +35,7 @@ This Class Model describes the relations in the technical SmartContract environm
 
 ## Implementation
 Realization as Ethereum Smart Contracts.
-![Implementation Readme](../orangicOilSupply)
+![Implementation Readme](https://github.com/Eifel42/organicOilSupply)
 
 ## Authors
 Stefan Zils
