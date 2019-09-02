@@ -32,3 +32,13 @@ This Class Diagram describes the relations of the entities in the business domai
 ### SmartContract Logic
 ![SmartContract Model](images/DataModelSmartContract.svg)
 This Class Model describes the relations in the technical SmartContract environment.
+
+## Implementation
+Realization as Ethereum Smart Contracts.
+![Implementation Readme](impl/code.md)
+
+## Authors
+Stefan Zils
+
+## Acknowledgments
+* udacity
