@@ -34,8 +34,7 @@ This Class Diagram describes the relations of the entities in the business domai
 This Class Model describes the relations in the technical SmartContract environment.
 
 ## Implementation
-Realization as Ethereum Smart Contracts.
-![Implementation](https://github.com/Eifel42/organicOilSupply)
+Realization as Ethereum Smart Contracts.[Implementation](https://github.com/Eifel42/organicOilSupply)
 
 ## Authors
 Stefan Zils
